@@ -213,7 +213,8 @@ swapnilcholkhane@gmail.com  |  [GitHub](https://github.com/swapnilcholkhane3)
 
 ---
 
-_Thank you for reviewing this submission. Details, citations, and best practices are integrated so the notebook and project are self-explanatory and reproducible. For further questions, refer to the notebook comments or contact the author above._
+_Thank you for reviewing this submission. Details, citations, and best practices are integrated so the notebook and project are self-explanatory and reproducible. For further questions, refer to the notebook comments._
+
 
 
 
