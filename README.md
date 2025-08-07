@@ -96,7 +96,8 @@ mkdir -p checkpoints results notebooks
 
 ## Dataset Preparation
 
-- Secure the **CMU10_3D** dataset (see your assignment or [official repo](https://github.com/Yu-Group/CMU-10-3D-products-dataset) for access).
+- Secure the **CMU10_3D** dataset ( http://www.cs.cmu.edu/
+ ~ehsiao/3drecognition/CMU10_3D.zip) for access).
 - Place all `.jpg` images and `_gt.png` mask files in:  
 `data/CMU10_3D/data_2D/`
 - Naming must match the format used in the notebook (i.e., `<product>_<id>.jpg` and `<product>_<id>_gt.png`).
@@ -187,7 +188,8 @@ See `requirements.txt`, including:
 ## References
 
 - [SAM2: Segment Anything 2 — Meta AI GitHub](https://github.com/facebookresearch/sam2)
-- [CMU10_3D Dataset](https://github.com/Yu-Group/CMU-10-3D-products-dataset)
+- [CMU10_3D Dataset]( http://www.cs.cmu.edu/
+ ~ehsiao/3drecognition/CMU10_3D.zip)
 - [SAM2 Model & Config @ HuggingFace](https://huggingface.co/facebook/sam2-hiera-tiny)
 
 ---
@@ -200,3 +202,4 @@ swapnilcholkhane@gmail.com  |  [GitHub](https://github.com/swapnilcholkhane3)
 ---
 
 _Thank you for reviewing this submission. Details, citations, and best practices are integrated so the notebook and project are self-explanatory and reproducible. For further questions, refer to the notebook comments or contact the author above._
+
